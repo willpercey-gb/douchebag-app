@@ -2,6 +2,9 @@
   "name": "douchebag-app",
   "version": "1.0.0",
   "private": true,
+  "nuxt": {
+    "port": 3004
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
